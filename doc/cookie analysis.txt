@@ -1,0 +1,211 @@
+"http://download.csdn.net/index.php/source/do_download/6600229/u010723811/348d5020ed055cf26bc3c60532ec9b8b"
+
+
+
+"http://download.csdn.net/download/u010723811/6600229"
+
+
+UserName=getseter;UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf;UN=getseter;UserNick=getseter;access-token=2a95095b-bccd-49d1-8b58-c0222a5f334f;domain:csdn.net;path=/
+
+UserName=getseter;UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf;UN=getseter;UserNick=getseter;access-token=22c5b0e5-2e30-4107-a10f-b08708269600;domain:csdn.net;path=/
+
+
+pgv_pvi=1668545536; __utma=205572230.1492658359.1383383871.1383552550.1383583761.4; __utmz=205572230.1383552550.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); CloudGuest=KhrJQ8pQE+gy6+VVIJpWL7L8we/X8x9J3oxl/f54S+igO3n5kDcA2bLXCVO35JrjD8qm+k1EYg6ESxK/3oxcrzRmJrssfBlEQnGE6isTbEi6t6UksbF6pmOVjo7307DfDyOlBji4ZEN6GquSwns8yXK5cMlMiNbdOMSanZ7kN4yVu9Vh9ShvTe3aWTP8boGg; __message_district_code=350000; uuid_tt_dd=-768964080476600906_20131125; download_first=1; PHPSESSID=24df6b77283f06df8ba3aa7d9225a26e; pvu=mwugz6; pvq=mwugz8; pv8=mwugz8; pvg=mwugz9; pvp=mwuh0r; pvd=mwuh6s; pvm=mwuipt; pvc=mwuj3z; pv5=mwujq2; pv3=mwujqe; pv6=mwuk2i; pvo=mwuk2k; pvx=mwul5e; pvj=mwum00; pv1=mwum9r; __message_sys_msg_id=2182; pvh=mwuoq7; pgv_si=s5024166912; UserName=getseter;UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf;UN=getseter;UserNick=getseter;access-token=15534da9-9cce-43af-bb35-15e7251a229e; pvn=mwuqny; __utma=17226283.1150830374.1367480735.1385435311.1385437758.353; __utmb=17226283.5.10.1385437758; __utmc=17226283; __utmz=17226283.1385437758.353.253.utmcsr=download.csdn.net|utmccn=(referral)|utmcmd=referral|utmcct=/download/a461602442/5327710; pvz=mwuqoj; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0
+
+----
+
+
+pgv_pvi=1668545536; __utma=205572230.1492658359.1383383871.1383552550.1383583761.4; __utmz=205572230.1383552550.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); CloudGuest=KhrJQ8pQE+gy6+VVIJpWL7L8we/X8x9J3oxl/f54S+igO3n5kDcA2bLXCVO35JrjD8qm+k1EYg6ESxK/3oxcrzRmJrssfBlEQnGE6isTbEi6t6UksbF6pmOVjo7307DfDyOlBji4ZEN6GquSwns8yXK5cMlMiNbdOMSanZ7kN4yVu9Vh9ShvTe3aWTP8boGg; __message_district_code=350000; uuid_tt_dd=-768964080476600906_20131125; PHPSESSID=24df6b77283f06df8ba3aa7d9225a26e; pvu=mwugz6; pvq=mwugz8; pv8=mwugz8; pvg=mwugz9; pvp=mwuh0r; pvd=mwuh6s; pvm=mwuipt; pvc=mwuj3z; pv5=mwujq2; pv3=mwujqe; pv6=mwuk2i; pvo=mwuk2k; pvx=mwul5e; pvj=mwum00; pv1=mwum9r; __message_sys_msg_id=2182; pgv_si=s5024166912; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UN=getseter; UserNick=getseter; access-token=2e43fe6b-01fc-45bc-9e4e-674bdbc18d83; pvn=mwuqny; pvz=mwuqoj; download_first=1; pvl=mwur95; __utma=17226283.1150830374.1367480735.1385435311.1385437758.353; __utmb=17226283.8.10.1385437758; __utmc=17226283; __utmz=17226283.1385437758.353.253.utmcsr=download.csdn.net|utmccn=(referral)|utmcmd=referral|utmcct=/download/a461602442/5327710; pvh=mwur9d; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0
+
+
+///正确可以获得的cookie
+1.
+pgv_pvi=1668545536; __utma=205572230.1492658359.1383383871.1383552550.1383583761.4; __utmz=205572230.1383552550.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); CloudGuest=KhrJQ8pQE+gy6+VVIJpWL7L8we/X8x9J3oxl/f54S+igO3n5kDcA2bLXCVO35JrjD8qm+k1EYg6ESxK/3oxcrzRmJrssfBlEQnGE6isTbEi6t6UksbF6pmOVjo7307DfDyOlBji4ZEN6GquSwns8yXK5cMlMiNbdOMSanZ7kN4yVu9Vh9ShvTe3aWTP8boGg; __message_district_code=350000; uuid_tt_dd=-768964080476600906_20131125; download_first=1; PHPSESSID=24df6b77283f06df8ba3aa7d9225a26e; pvu=mwugz6; pvq=mwugz8; pv8=mwugz8; pvg=mwugz9; pvp=mwuh0r; pvd=mwuh6s; pvm=mwuipt; pvc=mwuj3z; pv5=mwujq2; pv3=mwujqe; pv6=mwuk2i; pvo=mwuk2k; pvx=mwul5e; pvj=mwum00; pv1=mwum9r; __message_sys_msg_id=2182; pvh=mwuoq7; pgv_si=s5024166912; #mycookie#  pvn=mwuqny; __utma=17226283.1150830374.1367480735.1385435311.1385437758.353; __utmb=17226283.5.10.1385437758; __utmc=17226283; __utmz=17226283.1385437758.353.253.utmcsr=download.csdn.net|utmccn=(referral)|utmcmd=referral|utmcct=/download/a461602442/5327710; pvz=mwuqoj; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0
+
+2、
+
+pgv_pvi=1668545536; __utma=205572230.1492658359.1383383871.1383552550.1383583761.4; __utmz=205572230.1383552550.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); CloudGuest=KhrJQ8pQE+gy6+VVIJpWL7L8we/X8x9J3oxl/f54S+igO3n5kDcA2bLXCVO35JrjD8qm+k1EYg6ESxK/3oxcrzRmJrssfBlEQnGE6isTbEi6t6UksbF6pmOVjo7307DfDyOlBji4ZEN6GquSwns8yXK5cMlMiNbdOMSanZ7kN4yVu9Vh9ShvTe3aWTP8boGg; __message_district_code=350000; uuid_tt_dd=-768964080476600906_20131125; PHPSESSID=24df6b77283f06df8ba3aa7d9225a26e; pvu=mwugz6; pvq=mwugz8; pv8=mwugz8; pvg=mwugz9; pvp=mwuh0r; pvd=mwuh6s; pvm=mwuipt; pvc=mwuj3z; pv5=mwujq2; pv3=mwujqe; pv6=mwuk2i; pvo=mwuk2k; pvx=mwul5e; pvj=mwum00; pv1=mwum9r; __message_sys_msg_id=2182; pgv_si=s5024166912; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UN=getseter; UserNick=getseter; access-token=2e43fe6b-01fc-45bc-9e4e-674bdbc18d83; pvn=mwuqny; pvz=mwuqoj; download_first=1; pvl=mwur95; __utma=17226283.1150830374.1367480735.1385435311.1385437758.353; __utmb=17226283.8.10.1385437758; __utmc=17226283; __utmz=17226283.1385437758.353.253.utmcsr=download.csdn.net|utmccn=(referral)|utmcmd=referral|utmcct=/download/a461602442/5327710; pvh=mwur9d; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0
+
+
+
+
+
+=====
+
+
+POST http://download.csdn.net/index.php/source/do_download/6600229/u010723811/348d5020ed055cf26bc3c60532ec9b8b HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/u010723811/6600229
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; pvk=mwuvx7; pv9=mwum5e; pv2=mwumko; pgv_pvi=2077197312; pvi=mwuml0; pvl=mwuml5; pv8=mwuoic; pvv=mwumm1; __utmb=17226283.7.10.1385444351; pv0=mwuoig; pvm=mwuoij; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; pvx=mwuvy8; pvu=mwuvyi; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+
+======
+
+
+POST http://download.csdn.net/index.php/source/do_download/6584611/fffonion/7cdfd03075877b7d51ed9bb504deb8c7 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/fffonion/6584611
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; pvk=mwuvx7; pv9=mwum5e; pv2=mwumko; pgv_pvi=2077197312; pvi=mwuml0; pvl=mwuml5; pv8=mwuoic; pvv=mwumm1; __utmb=17226283.9.10.1385444351; pv0=mwuw6c; pvm=mwuoij; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; pvx=mwuvy8; pvu=mwuvyi; pvz=mwuw65; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=\
+
+
+
+
+POST http://download.csdn.net/index.php/source/do_download/6578377/sinyu890807/462deda7eadbbcd2e13ad692af95e110 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/sinyu890807/6578377
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; pvk=mwuvx7; pv9=mwum5e; pv2=mwumko; pgv_pvi=2077197312; pvi=mwuml0; pvl=mwuwam; pv8=mwuoic; pvv=mwumm1; __utmb=17226283.11.10.1385444351; pv0=mwuw6c; pvm=mwuoij; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; pvx=mwuvy8; pvu=mwuvyi; pvz=mwuw65; pvp=mwuwar; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+
+POST http://download.csdn.net/index.php/source/do_download/6576459/zah5897/197f61ad64631519c381b2bcb1be2484 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/zah5897/6576459
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; pvk=mwuvx7; pv9=mwum5e; pv2=mwumko; pgv_pvi=2077197312; pvi=mwuml0; pvl=mwuwam; pv8=mwuoic; pvv=mwumm1; __utmb=17226283.13.10.1385444351; pv0=mwuw6c; pvm=mwuoij; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; pvx=mwuvy8; pvu=mwuvyi; pvz=mwuw65; pvp=mwuwar; pvs=mwuwg1; pva=mwuwg6; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+POST http://download.csdn.net/index.php/source/do_download/6576459/zah5897/197f61ad64631519c381b2bcb1be2484 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/zah5897/6576459
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; pvk=mwuvx7; pv9=mwum5e; pv2=mwumko; pgv_pvi=2077197312; pvi=mwuml0; pvl=mwuwam; pv8=mwuoic; pvv=mwumm1; __utmb=17226283.13.10.1385444351; pv0=mwuw6c; pvm=mwuoij; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; pvx=mwuvy8; pvu=mwuvyi; pvz=mwuw65; pvp=mwuwar; pvs=mwuwg1; pva=mwuwg6; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+POST http://download.csdn.net/index.php/source/do_download/6504971/laoge/2b37d9a41e3692ac05cde21f4fe52040 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/laoge/6504971
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; pvn=mwumll; __message_district_code=350000; pvg=mwuvpc; UN=getseter; __utmb=17226283.17.10.1385444351; pva=mwuwun; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+
+
+<form name="download_form" id="download_form" method="post" action="http://download.csdn.net/index.php/source/do_download/6532433/shencaifeixia1/0127d8868456c7d970a5ddfd57a956cb" target="iframe_data">
+					<input name="ds" id="ds" type="hidden">
+					<input type="hidden" name="validate_code" value="" id="vdcode">
+				</form>
+
+
+
+
+
+
+
+============GOT! +++++
+
+POST http://download.csdn.net/index.php/source/do_download/6532433/shencaifeixia1/0127d8868456c7d970a5ddfd57a956cb HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/shencaifeixia1/6532433
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; __message_district_code=350000; pag=mwudpc; UN=getseter; __utmb=17226283.17.10.1385444351; abv=mwuwun; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+
+__utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; __message_district_code=350000; pag=mwudpc; UN=getseter; __utmb=17226283.17.10.1385444351; #myrandom# __utmc=17226283; #mycookie# download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+
+
+
+
+
+POST http://download.csdn.net/index.php/source/do_download/6532433/shencaifeixia1/0127d8868456c7d970a5ddfd57a956cb HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://download.csdn.net/download/shencaifeixia1/6532433
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: download.csdn.net
+Content-Length: 20
+Connection: Keep-Alive
+Pragma: no-cache
+Cookie: __utma=17226283.109353757.1384908826.1385435026.1385444351.6; __utmz=17226283.1385431969.4.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=show_validate_pop(); uuid_tt_dd=-4391624736800619545_20131120; __message_sys_msg_id=2182; __message_gu_msg_id=0; __message_cnel_msg_id=0; __message_in_school=0; __message_district_code=350000; UN=getseter; __utmb=17226283.17.10.1385444351; abv=mwuwun; __utmc=17226283; UserName=getseter; UserInfo=HSqaKlAITQYIq7y37a6QGJzjJA0u0TscDbKcxwTt38Gkh27quAfQfYiih8sC%2bQXtWMK8M%2f%2fr%2bOWuQreEMOsbl5PJDC8NVr7fdq6oZX6pLTKTL%2bkPtMaHJMfr%2fRa8pjrf; UserNick=getseter; access-token=0697321f-faad-412b-b74e-71be6e55db3e; download_first=1; PHPSESSID=f0224a8ed731f5fe59be23e4bf23f921
+
+ds=dx&validate_code=
+
+
+
+
+<form name="download_form" id="download_form" method="post" action="http://download.csdn.net/index.php/source/do_download/438441/zhang13772562635/f2c1a117048450018a5d277e4efae77f" target="iframe_data">
+					<input name="ds" id="ds" type="hidden">
+					<input type="hidden" name="validate_code" value="" id="vdcode">
+				</form>
+
+
+
+成功标记
+
+parent.reset_validate_code()
